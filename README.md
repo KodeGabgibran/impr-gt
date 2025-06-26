@@ -1,2 +1,0 @@
-# impr-gt
-Platform Edukasi
